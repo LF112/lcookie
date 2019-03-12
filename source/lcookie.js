@@ -1,3 +1,8 @@
+// Javascript lcookie - Lightweight cookie policy banner component.
+// // Released under MIT License Opensourced. (https://github.com/lf112/lcookie)
+// Author @LF112 (https://github.com/lf112)
+// Copyright reservation is required.
+
 let lcookie = function( Config ){
 
     console.log('\n %c 🍪lcookie %c https://github.com/LF112/lcookie %c BY%c LF112  \n\n', 'color: #ffffff; background: rgb(0, 145, 228); padding:5px 0;', 'background:rgba(197, 197, 197, 0.89); padding:5px 0;', 'color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;', 'color: rgb(0, 145, 228); background: rgba(49, 49, 49, 0.85); padding:5px 0;');
@@ -8,6 +13,7 @@ let lcookie = function( Config ){
 
         let defaultOption;
 
+        //Config
         if (typeof(Config) == 'undefined') defaultOption = [
             ['Cookie 同意横幅','一旦访问网站和接受该Cookie政策，即表示阁下同意按照规定的条款使用本站提供的 Cookie。'],
             ['同意','详细'],
