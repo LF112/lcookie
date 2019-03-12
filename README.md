@@ -1,5 +1,5 @@
 <p>
-<img src="https://imgur.com/nYNSkxM" alt="lcookie Render Poster">
+<img src="https://i.imgur.com/nYNSkxM.png" alt="lcookie Render Poster">
 </p>
 
 <h1 style="text-align:center">LCookie</h1>
