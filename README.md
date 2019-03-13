@@ -37,8 +37,8 @@ If you need configuration, you can:
 ```
     <script>
         lcookie([
-            ['Cookie 同意横幅','一旦访问网站和接受该Cookie政策，即表示阁下同意按照规定的条款使用本站提供的 Cookie。 Powered by lcookie「https://github.com/lf112/lcookie」Made by LF112「https://www.lf112.net」'],
-            ['同意','详细'],
+            ['Cookie Consent Banner','By accessing the website and accepting the Cookie Policy, you agree to use the cookies provided by the Site in accordance with the Terms and Conditions.'],
+            ['Accept','Detailed','https://github.com/lf112/lcookie'],
             ['#fff','hsla(0,0%,96%,.6)','hsla(0,0%,82%,.5)','#515151','#515151','#a5a5a5']
         ]);
     </script>
