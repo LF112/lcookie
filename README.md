@@ -7,7 +7,7 @@
 Project Documents: https://lcookie.js.org
 
 ## Story Behind LCookie
-While developing the [LiCSS](https://github.com/lf112/licss) project, I would need a cookie notice banner. Despite with @hifocus's suggestion, I decided to turn this into a individual web component that every can use with just one `.js` file and several simple configurations.
+While developing the [LiCSS](https://github.com/lf112/licss) project, I would need a cookie notice banner. Despite with [@hifocus](https://github.com/hifocus)'s suggestion, I decided to turn this into a individual web component that every can use with just one `.js` file and several simple configurations.
 
 ## Description
  `lcookie` is a JavaScript based web component that can be easily customised and automatically shows a cookie consent banner.
