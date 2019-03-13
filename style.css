@@ -1,0 +1,67 @@
+/* HXCO General Template CSS 2.0 */
+
+/* @import url('https://fonts.loli.net/css?family=Titillium+Web'); */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: table;
+  font-weight: 400;
+  /* font-family: 'Titillium Web', 'Noto Sans SC', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", sans-serif; */
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.content {
+  text-align: center;
+  display: inline-block;
+}
+
+.title {
+  font-size: 16px;
+}
+
+.gry {
+  color: gray;
+}
+
+.normal {
+  font-size: 16px;
+  text-align: center;
+}
+
+.words {
+  font-size: 35px;
+}
+
+.heart {
+  color: red;
+}
+
+.https {
+  color: green;
+}
+
+.infos {
+  line-height: 25%;
+}
+
+.footer {
+  bottom: 0px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  font-size: 18px;
+}
