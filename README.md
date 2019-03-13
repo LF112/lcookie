@@ -1,6 +1,6 @@
-<p style="text-align:center"><img src="https://i.imgur.com/nYNSkxM.png" alt="lcookie Render Poster"></p>
+<p align="center"><img src="https://i.imgur.com/nYNSkxM.png" alt="lcookie Render Poster"></p>
 
-<h1 style="text-align:center">Introduce You to LCookie</h1>
+<h1 align="center">Introduce You to LCookie</h1>
 
 > Lightweight cookie policy banner component.
 
