@@ -1,12 +1,10 @@
 <p>
-<img src="https://i.imgur.com/nYNSkxM.png" alt="lcookie Render Poster">
+<img src="https://ae01.alicdn.com/kf/UTB8irS7qf2JXKJkSanrq6y3lVXav.jpg" alt="LCookie Render Poster">
 </p>
 
 <h1 style="text-align:center">LCookie</h1>
 
-> Lightweight cookie policy banner component.
-
-> 
+> Lightweight cookie notice component
 
 ## Why
  Since I was too lazy to write a cookie consent banner when developing Licss, I shouldn't write it, but due to the hifocus proposal, I plan to make a separate JavaScript for everyone to use.
