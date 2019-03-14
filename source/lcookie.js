@@ -1,5 +1,5 @@
 // Javascript lcookie - Lightweight cookie policy banner component.
-// // Released under MIT License Opensourced. (https://github.com/lf112/lcookie)
+// Released under MIT License Opensourced. (https://github.com/lf112/lcookie)
 // Author @LF112 (https://github.com/lf112)
 // Copyright reservation is required.
 
