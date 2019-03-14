@@ -1,21 +1,14 @@
-<p align="center"><img src="https://i.imgur.com/nYNSkxM.png" alt="lcookie Render Poster"></p>
+# LCookie Media Resources
 
-<h1 align="center">Introduce You with LCookie</h1>
+## README Banner
+The README Banner is designed by [@hifocus](https://github.com/hifocus) with Adobe Photoshop.
 
-> Lightweight cookie policy banner component.
+To use it online, please refer to
 
-Project Documents: https://lcookie.js.org
+```
+https://i.imgur.com/RlukB0o.jpg
+https://ae01.alicdn.com/kf/UTB8irS7qf2JXKJkSanrq6y3lVXav.jpg
+```
+Commercial use is **not allowed**.
 
-## Story Behind LCookie
-While developing the [LiCSS](https://github.com/lf112/licss) project, I would need a cookie notice banner. Despite with [@hifocus](https://github.com/hifocus)'s suggestion, I decided to turn this into a individual web component that every can use with just one `.js` file and several simple configurations.
-
-## Description
- `lcookie` is a JavaScript based web component that can be easily customised and automatically shows a cookie consent banner.
-
- [LF112/lcookie](https://github.com/lf112/lcookie) is an open source project, released under the [MIT License](https://github.com/LF112/lcookie/blob/master/LICENSE) as a part of [LF112](https://www.lf112.net) personal project.
- 
-## How to Setup
-Please refer to: https://lcookie.js.org
-
-## Credit
-[@hifocus](https://github.com/hifocus) - improved copywriting of this README.
+Credit to [Unsplash.com](https://unsplash.com), [Google Fonts](https://fonts.google.com), [Adobe Fonts](https://fonts.adobe.com) for those free images and fonts.
